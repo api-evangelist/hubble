@@ -28,7 +28,7 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 image: https://images.hubblehq.com/_/h:630/w:1200/plain/s3://hubblehq/site/homepage/hero-2019-10-24.jpg
